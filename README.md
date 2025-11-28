@@ -1,6 +1,6 @@
-2025-11-27
+2025-11-28
 
-Black : 167
-White : 66
+Black : 137
+White : 72
 
-Total : 233
+Total : 209
