@@ -1,8 +1,8 @@
-2025-12-10
+2025-12-11
 
-Black : 299
+Black : 177
 
-White : 192
+White : 98
 
 
-Total : 491
+Total : 275
