@@ -1,8 +1,8 @@
-2026-01-30
+2026-01-31
 
-Black : 238
+Black : 186
 
-White : 147
+White : 90
 
 
-Total : 385
+Total : 276
