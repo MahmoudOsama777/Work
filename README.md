@@ -1,8 +1,8 @@
-2026-02-06
+2026-02-07
 
-Black : 194
+Black : 159
 
-White : 96
+White : 86
 
 
-Total : 290
+Total : 245
