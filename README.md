@@ -1,8 +1,8 @@
 2026-02-11
 
-Black : 164
+Black : 178
 
-White : 86
+White : 71
 
 
-Total : 250
+Total : 249
